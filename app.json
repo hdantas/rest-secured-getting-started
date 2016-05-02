@@ -1,0 +1,10 @@
+{
+  "name": "Getting Started with Rest Secured",
+  "description": "A sample integration showing possibilities of Rest Secured service",
+  "repository": "https://github.com/stankiewicz/rest-secured-getting-started",
+  "keywords": ["python","swagger"],
+  "image": "heroku/python",
+  "addons": [
+    "restsecured"
+  ]
+}
