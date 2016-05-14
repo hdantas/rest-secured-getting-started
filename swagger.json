@@ -1,6 +1,6 @@
 {
   "basePath": "/api",
-  "host": "vulnerableapi.herokuapp.com",
+  "host": "fierce-anchorage-4242.herokuapp.com",
   "consumes": [
     "application/json"
   ],
